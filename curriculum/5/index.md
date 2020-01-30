@@ -8,10 +8,10 @@
 * Shorts
   * [1-Internet primer](https://www.youtube.com/watch?v=04GztBlVo_s) (19:47)
   * [2-TCP](https://www.youtube.com/watch?v=GP7uvI_6uas) (9:31)
-  * [3-HTTP](https://www.youtube.com/watch?v=4axL8Gfw2nI) (15:02)
-  * [4-HTML](https://www.youtube.com/watch?v=YK78KhMf7bs) (21:34)
-  * [5-CSS](https://www.youtube.com/watch?v=Ub3FKU21ubk) (Watched 1/30/20)
-  * [6-IP](https://www.youtube.com/watch?v=A1g9SokDJSU)
+  * [3-IP](https://www.youtube.com/watch?v=A1g9SokDJSU) (15:34)
+  * [4-HTTP](https://www.youtube.com/watch?v=4axL8Gfw2nI) (15:02)
+  * [5-HTML](https://www.youtube.com/watch?v=YK78KhMf7bs) (21:34)
+  * [6-CSS](https://www.youtube.com/watch?v=Ub3FKU21ubk) (Watched 1/30/20)
   * [7JavaScript](https://www.youtube.com/watch?v=Z93IaNfavZw) (18:06)
 * [Slides](https://cdn.cs50.net/2018/fall/lectures/5/lecture5.pdf)
 * Source Code
