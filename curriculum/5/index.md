@@ -1,18 +1,19 @@
 # Chapter 5
 
 * [Notes](notes)
-* Problems
-  * [Defender of the Web](https://docs.cs50.net/2019/ap/problems/defender/defender.html)
-  * [Be the Teacher](https://docs.cs50.net/2019/ap/problems/teacher/teacher.html)
-  * [Homepage](https://docs.cs50.net/2019/ap/problems/homepage/homepage.html)
+* Problems 
+  * [Defender of the Web](https://docs.cs50.net/2019/ap/problems/defender/defender.html) (Due Feb 3, 2020)
+  * [Be the Teacher](https://docs.cs50.net/2019/ap/problems/teacher/teacher.html) (Due Feb 4, 2020, Speeches in class)
+  * [Homepage](https://docs.cs50.net/2019/ap/problems/homepage/homepage.html) (Due Feb 7, 2020)
 * Shorts
-  * [CSS](https://www.youtube.com/watch?v=Ub3FKU21ubk)
-  * [HTML](https://www.youtube.com/watch?v=YK78KhMf7bs)
-  * [HTTP](https://www.youtube.com/watch?v=4axL8Gfw2nI)
-  * [Internet primer](https://www.youtube.com/watch?v=04GztBlVo_s)
-  * [IP](https://www.youtube.com/watch?v=A1g9SokDJSU)
-  * [JavaScript](https://www.youtube.com/watch?v=Z93IaNfavZw)
-  * [TCP](https://www.youtube.com/watch?v=GP7uvI_6uas)
+  * [1-Internet primer](https://www.youtube.com/watch?v=04GztBlVo_s)
+  * [2-TCP](https://www.youtube.com/watch?v=GP7uvI_6uas)
+  * [3-HTTP](https://www.youtube.com/watch?v=4axL8Gfw2nI)
+  * [4-HTML](https://www.youtube.com/watch?v=YK78KhMf7bs)
+  * [5-CSS](https://www.youtube.com/watch?v=Ub3FKU21ubk)
+  * [6-HTML](https://www.youtube.com/watch?v=YK78KhMf7bs)
+  * [7-IP](https://www.youtube.com/watch?v=A1g9SokDJSU)
+  * [8-JavaScript](https://www.youtube.com/watch?v=Z93IaNfavZw)
 * [Slides](https://cdn.cs50.net/2018/fall/lectures/5/lecture5.pdf)
 * Source Code
   * [Index](https://cdn.cs50.net/2018/fall/lectures/5/src5/)
