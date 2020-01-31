@@ -7,6 +7,7 @@
 
 * [Status Page](https://cs50.statuspage.io/)
 * [Style Guide](https://cs50.readthedocs.io/style/c/)
+* [AP CS50 Syllabus](https://cs50.harvard.edu/ap/syllabus/)
 
 ***
 
