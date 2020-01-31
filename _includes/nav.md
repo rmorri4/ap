@@ -12,3 +12,4 @@
 
 * [**Curriculum**]({{ "/curriculum" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
+* [Syllabus](https://cs50.harvard.edu/ap/syllabus/)
