@@ -2,9 +2,9 @@
 
 * [Notes](notes)
 * Problems 
-  * [Defender of the Web](https://docs.cs50.net/2019/ap/problems/defender/defender.html) (Due Feb 3, 2020)
-  * [Be the Teacher](https://docs.cs50.net/2019/ap/problems/teacher/teacher.html) (Due Feb 4, 2020, Speeches in class)
-  * [Homepage](https://docs.cs50.net/2019/ap/problems/homepage/homepage.html) (Due Feb 7, 2020)
+  * [Defender of the Web](https://docs.cs50.net/2019/ap/problems/defender/defender.html) (Due Feb 5, 2020)
+  * [Be the Teacher](https://docs.cs50.net/2019/ap/problems/teacher/teacher.html) (Due Feb 7, 2020, Speeches in class)
+  * [Homepage](https://docs.cs50.net/2019/ap/problems/homepage/homepage.html) (Due Feb 10, 2020)
 * Shorts
   * [1-Internet primer](https://www.youtube.com/watch?v=04GztBlVo_s) (19:47)
   * [2-TCP](https://www.youtube.com/watch?v=GP7uvI_6uas) (9:31)
