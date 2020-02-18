@@ -4,11 +4,11 @@
 * Problems
   * [Analyze This](https://docs.cs50.net/2019/ap/problems/analyze/analyze.html)
   * Sentimental
-    * [Hello](https://docs.cs50.net/2019/ap/problems/sentimental/hello/sentimental.html)
-    * [Mario(less)](https://docs.cs50.net/2019/ap/problems/sentimental/mario/less/sentimental.html) or [Mario(more)](https://docs.cs50.net/2019/ap/problems/sentimental/mario/more/sentimental.html)
-    * [Cash](https://docs.cs50.net/2019/ap/problems/sentimental/cash/sentimental.html) or [Credit](https://docs.cs50.net/2019/ap/problems/sentimental/credit/sentimental.html)
-    * [Caesar](https://docs.cs50.net/2019/ap/problems/sentimental/caesar/sentimental.html), [Vigenère](https://docs.cs50.net/2019/ap/problems/sentimental/vigenere/sentimental.html), or [Crack](https://docs.cs50.net/2019/ap/problems/sentimental/crack/sentimental.html)
-  * [Bleep](https://docs.cs50.net/2019/ap/problems/bleep/bleep.html)
+    * [Hello](https://docs.cs50.net/2019/ap/problems/sentimental/hello/hello.html) Due Feb 20, 2020
+    * [Mario(less)](https://docs.cs50.net/2019/ap/problems/sentimental/mario/less/mario.html) or [Mario(more)](https://docs.cs50.net/2019/ap/problems/sentimental/mario/more/sentimental.html) (Pick one, Due 2/21/2020)
+    * [Cash](https://docs.cs50.net/2019/ap/problems/sentimental/cash/cash.html) or [Credit](https://docs.cs50.net/2019/ap/problems/sentimental/credit/credit.html) (pick one)
+    * [Caesar](https://docs.cs50.net/2019/ap/problems/sentimental/caesar/caesar.html), [Vigenère](https://docs.cs50.net/2019/ap/problems/sentimental/vigenere/vigenere.html), or [Crack](https://docs.cs50.net/2019/ap/problems/sentimental/crack/crack.html) (Pick one due 2/26)
+  * [Bleep](https://docs.cs50.net/2019/ap/problems/bleep/bleep.html) ( Due 2/28)
 * [Slides](https://cdn.cs50.net/2018/fall/lectures/6/lecture6.pdf)
 * Source Code
   * [Index](https://cdn.cs50.net/2018/fall/lectures/6/src6/)
