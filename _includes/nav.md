@@ -7,10 +7,10 @@
 
 * [Status Page](https://cs50.statuspage.io/)
 * [Style Guide](https://cs50.readthedocs.io/style/c/)
-* [AP CS50 Syllabus](https://cs50.harvard.edu/ap/syllabus/)
+* [AP CS50 Syllabus](https://cs50.harvard.edu/ap/2020/syllabus/)
 
 ***
 
 * [**Curriculum**]({{ "/curriculum" | relative_url }})
 * [Tools]({{ "/tools" | relative_url }})
-* [AP CS50 Syllabus](https://cs50.harvard.edu/ap/syllabus/)
+* [AP CS50 Syllabus](https://cs50.harvard.edu/ap/2020/syllabus/)
